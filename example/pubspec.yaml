@@ -1,0 +1,15 @@
+name: prism_form_example
+description: Demo app for prism_form.
+publish_to: none
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  prism_form:
+    path: ..
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,29 @@
+name: prism_form
+description: >-
+  Declarative forms for Flutter — typed fields, composable validators, sealed
+  submit states, inline errors, and a headless controller. Pure Flutter, all
+  platforms. Part of the Prism package family.
+version: 0.1.0
+repository: https://github.com/awaisdev5765/prism_form
+issue_tracker: https://github.com/awaisdev5765/prism_form/issues
+topics:
+  - form
+  - validation
+  - widget
+  - ui
+
+environment:
+  sdk: ^3.9.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
